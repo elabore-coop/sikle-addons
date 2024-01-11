@@ -21,7 +21,7 @@
     # always loaded
     "data": [
         # "security/security.xml",
-        # "views/menu.xml",
+        "views/add_payment_mode_on_invoice_document.xml",
         # "data/data.xml",
     ],
     # only loaded in demonstration mode
